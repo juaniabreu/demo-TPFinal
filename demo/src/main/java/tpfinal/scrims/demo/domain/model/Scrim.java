@@ -7,6 +7,7 @@ import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import tpfinal.scrims.demo.domain.model.enums.Formatos;
 import tpfinal.scrims.demo.domain.model.enums.Juegos;
+import tpfinal.scrims.demo.domain.state.ScrimState;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
